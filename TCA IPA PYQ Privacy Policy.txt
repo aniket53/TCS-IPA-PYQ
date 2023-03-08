@@ -1,0 +1,33 @@
+Thank you for choosing our Android application that provides previous year questions and contains ads. We understand the importance of your privacy and are committed to protecting it. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our application. By using our application, you agree to the terms of this Privacy Policy.
+
+Information We Collect
+a) Personal Information: We may collect personal information such as your name, email address, and phone number when you register or create an account in our application. We may also collect your device information such as device model, operating system version, and unique device identifiers.
+
+b) Usage Information: We may collect information about how you use our application, such as the pages you view, the time spent on each page, and the actions you take.
+
+c) Advertising ID: We may collect your Advertising ID, which is a unique identifier assigned by your device to deliver targeted ads. We use this information to display relevant ads in our application.
+
+How We Use Your Information
+a) To Provide Services: We use your personal information to provide you with access to previous year questions and other related services.
+
+b) To Improve Our Application: We use the usage information to improve our application and provide a better user experience.
+
+c) To Show Ads: We use your Advertising ID to display relevant ads in our application. We do not share your personal information with advertisers.
+
+d) To Communicate with You: We may use your personal information to communicate with you regarding our application and services.
+
+How We Share Your Information
+a) Third-Party Service Providers: We may share your personal information with third-party service providers who assist us in providing services to you.
+
+b) Legal Requirements: We may disclose your personal information if required by law or in response to a legal request.
+
+Security
+We take reasonable measures to protect your personal information from unauthorized access, use, and disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website. You are advised to review this Privacy Policy periodically for any changes.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at [insert contact information].
+
+By using our application, you agree to the terms of this Privacy Policy.
